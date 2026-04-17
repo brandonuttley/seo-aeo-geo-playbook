@@ -8,6 +8,19 @@ Use one or two modules per piece of content. Using all four at once creates conf
 
 ---
 
+## How to use these modules
+
+1. Start with the full Tier 1 Foundation prompt
+2. Choose the module below that matches your content type
+3. Copy that module's prompt block
+4. Paste it directly below your Tier 1 prompt in your AI tool
+5. Add your content at the very bottom under `=== SUPPLIED COPY ===`
+6. Run the combined prompt
+
+If using two modules (e.g. A + B), paste both below Tier 1 in sequence — then add your content last.
+
+---
+
 ## Module A: Featured Snippet Optimization
 
 Use when your content answers a specific question and you want it selected as the direct answer at the top of search results.
