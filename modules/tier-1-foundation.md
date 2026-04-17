@@ -6,6 +6,18 @@ Run this first. Always.
 
 ---
 
+## How to use this module
+
+1. Copy the full prompt below
+2. Paste it into your AI tool of choice (Claude, ChatGPT, etc.)
+3. Scroll to the bottom of the prompt where it says `=== SUPPLIED COPY ===`
+4. Paste your content there
+5. Run the prompt
+
+If you plan to add a Tier 2 or Tier 3 module, paste those module instructions directly below this prompt — before your supplied copy. Your content should always appear last.
+
+---
+
 ## When to use this module
 
 Every time. There are no exceptions.
