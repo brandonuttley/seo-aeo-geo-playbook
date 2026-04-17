@@ -8,6 +8,19 @@ Add one Tier 3 module after completing Tier 1 and your chosen Tier 2 module.
 
 ---
 
+## How to use these modules
+
+1. Complete your Tier 1 Foundation prompt and any Tier 2 modules first
+2. Choose the module below that matches your target platform
+3. Copy that module's prompt block
+4. Paste it below your Tier 1 and Tier 2 prompts in your AI tool
+5. Add your content at the very bottom under `=== SUPPLIED COPY ===`
+6. Run the combined prompt
+
+Use only one Tier 3 module per piece of content. If you're unsure which platform to prioritize, start with Module A — ChatGPT and Perplexity signals tend to overlap more broadly with general AI citation behavior.
+
+---
+
 ## Module A: ChatGPT and Perplexity Citation Optimization
 
 Use when your primary goal is being cited or referenced in AI-generated responses on ChatGPT (with Browse enabled) or Perplexity.
